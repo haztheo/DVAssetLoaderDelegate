@@ -3,6 +3,7 @@
 [![Version](https://img.shields.io/cocoapods/v/DVAssetLoaderDelegate.svg?style=flat)](http://cocoapods.org/pods/DVAssetLoaderDelegate)
 [![License](https://img.shields.io/cocoapods/l/DVAssetLoaderDelegate.svg?style=flat)](http://cocoapods.org/pods/DVAssetLoaderDelegate)
 [![Platform](https://img.shields.io/cocoapods/p/DVAssetLoaderDelegate.svg?style=flat)](http://cocoapods.org/pods/DVAssetLoaderDelegate)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhaztheo%2FDVAssetLoaderDelegate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhaztheo%2FDVAssetLoaderDelegate?ref=badge_shield)
 
 ## Description
 
@@ -62,3 +63,6 @@ vdugnist, vdugnist@gmail.com
 ## License
 
 DVAssetLoaderDelegate is available under the MIT license. See the LICENSE file for more info.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhaztheo%2FDVAssetLoaderDelegate.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhaztheo%2FDVAssetLoaderDelegate?ref=badge_large)
